@@ -1,0 +1,5 @@
+123456;Video Coaxial;5.98;743;Compatible with screen menus ;0;0
+234567;Camcorder System Bag;49.98;542;Holds your camcorder ;0;0
+266673;Canon Camera;99.99;381;Latest Camera ;0;0
+654321;Sony Walkman;98.98;927;AM/FM cassette player;0;0
+990411;Playstation Four;450.0;670;Gaming Console;0;0
