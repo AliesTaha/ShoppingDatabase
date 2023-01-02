@@ -25,7 +25,7 @@ java Main
 - You can then add, remove, or update the quantities of items in the inventory. The program will automatically update the text file with the new quantities.
 - When you are finished making changes, you can exit the program by entering 'Q' at the main menu.
 
-#### Additional features
+#### Additional features:
 - The program can generate a report of the current inventory, sorted by item name or by quantity.
 - The program can also check if the inventory of a specific item is below a certain threshold and generate a warning if necessary.
 
