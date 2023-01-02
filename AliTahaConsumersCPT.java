@@ -1,7 +1,5 @@
 /***********************************************************************************************************
 * @Author: Ali Taha                                                                       @Date: 06/11/2021
-* Mr.A. Carreiro
-* FinalAliTahaConsumersCPT.java
 *
 * Program Description: (Backorder Included)
 * This is the driver program of the business program, which includes the main() method and creates objects of
