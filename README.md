@@ -24,6 +24,8 @@ java Main
 - The program will read the data from the file and display the current inventory.
 - You can then add, remove, or update the quantities of items in the inventory. The program will automatically update the text file with the new quantities.
 - When you are finished making changes, you can exit the program by entering 'Q' at the main menu.
+![image](https://user-images.githubusercontent.com/103478551/210189887-9ce1a281-abbf-4bf3-9a52-dd64dc359ec3.png)
+
 
 #### Additional features:
 - The program can generate a report of the current inventory, sorted by item name or by quantity.
