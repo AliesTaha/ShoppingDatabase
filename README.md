@@ -5,9 +5,10 @@
 Welcome to the store inventory database! This program is designed to keep track of the inventory of a store and update a text file with the current quantities of each item.
 
 ## Languages:
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img style="align: 'center';" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </div>
+
 
 #### How to use the program:
 - Make sure you have the latest version of Java installed on your computer.
